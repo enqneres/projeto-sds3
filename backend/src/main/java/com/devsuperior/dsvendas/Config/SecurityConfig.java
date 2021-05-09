@@ -1,4 +1,4 @@
-package com.devsuperior.dsvendas;
+package com.devsuperior.dsvendas.Config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
